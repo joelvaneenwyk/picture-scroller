@@ -244,15 +244,15 @@ Begin VB.Form frmMain
          EndProperty
       End
       Begin MSComctlLib.Toolbar tlbDirectory 
-         Height          =   600
+         Height          =   630
          Left            =   210
          TabIndex        =   9
          Top             =   1050
          Width           =   4800
          _ExtentX        =   8467
-         _ExtentY        =   1058
-         ButtonWidth     =   1191
-         ButtonHeight    =   953
+         _ExtentY        =   1111
+         ButtonWidth     =   1323
+         ButtonHeight    =   1005
          AllowCustomize  =   0   'False
          ImageList       =   "imglstDirectory"
          _Version        =   393216
