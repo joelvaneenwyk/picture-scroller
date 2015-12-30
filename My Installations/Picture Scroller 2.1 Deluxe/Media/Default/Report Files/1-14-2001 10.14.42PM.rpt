@@ -1,0 +1,152 @@
+////////////////////////////////////////////////////////////////////////////////
+///////////////////InstallShield Media Library Report Summary///////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+Media Name      : Default
+Report Filename : G:\My Installations\Picture Scroller 2.0 Deluxe\Media\Default\Report Files\1-14-2001 10.14.42PM.rpt
+Date            : 01/14/2001
+Time            : 10:14PM
+
+Number of Components:                5 
+Number of File Groups:               5 
+Number of Files:                    15 
+Total Size of Files:         4,522,259 (bytes)
+
+==========
+COMPONENTS
+==========
+
+
+     Program Files
+     Example Files
+     Help Files
+     Shared DLLs
+     Screen Saver
+
+
+////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////Report Details/////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+
+================================================================================
+                           COMPONENT: "Program Files"
+================================================================================
+
+SUMMARY:
+    Total Files:                1 (files for this component only)
+    Source Bytes:         978,944 (files for this component only)
+
+
+                **** File Group: "Program Executable Files" ****
+
+
+<Directory>: G:\Documents\Picture Scroller 2.0\Deluxe
+
+    Filename                    Date        Time      Size         Version      
+    --------------------------  ----------  --------  -----------  -------------
+    Picture Scroller.exe        01/14/2001  22:12:18      978,944  2.0.0.0      
+    --------------------------  ----------  --------  -----------  -------------
+    Count=1                                               978,944               
+
+
+================================================================================
+                           COMPONENT: "Example Files"
+================================================================================
+
+SUMMARY:
+    Total Files:                5 (files for this component only)
+    Source Bytes:       1,248,363 (files for this component only)
+
+
+                     **** File Group: "Example Files" ****
+
+
+<Directory>: G:\Documents\Picture Scroller 2.0\Pics\Included Pics
+
+    Filename                    Date        Time      Size         Version      
+    --------------------------  ----------  --------  -----------  -------------
+    Grand Tetons.jpg            09/21/2000  12:39:50       40,819               
+    Buffalo.jpg                 12/08/2000  12:47:56       71,443               
+    Natural Bridge.jpg          09/15/2000  10:20:46       47,735               
+    Old Faithful.jpg            09/12/2000  14:24:40       23,606               
+    Waterfall.jpg               09/12/2000  14:24:50       85,816               
+    --------------------------  ----------  --------  -----------  -------------
+    Count=5                                               269,419               
+
+
+================================================================================
+                            COMPONENT: "Help Files"
+================================================================================
+
+SUMMARY:
+    Total Files:                4 (files for this component only)
+    Source Bytes:       1,275,843 (files for this component only)
+
+
+                       **** File Group: "Help Files" ****
+
+
+<Directory>: G:\My Installations\Picture Scroller 2.0 Deluxe
+
+    Filename                    Date        Time      Size         Version      
+    --------------------------  ----------  --------  -----------  -------------
+    SSList.pcs                  11/01/2000  18:50:00           34               
+    Options.dat                 11/01/2000  16:25:06            0               
+    Examples.pcs                11/01/2000  18:50:00           34               
+    --------------------------  ----------  --------  -----------  -------------
+    Count=3                                                    68               
+
+
+<Directory>: G:\Documents\Picture Scroller 2.0\Deluxe
+
+    Filename                    Date        Time      Size         Version      
+    --------------------------  ----------  --------  -----------  -------------
+    Picture Scroller.chm        01/04/2001  14:28:32       27,412               
+    --------------------------  ----------  --------  -----------  -------------
+    Count=1                                                27,412               
+
+
+================================================================================
+                            COMPONENT: "Shared DLLs"
+================================================================================
+
+SUMMARY:
+    Total Files:                4 (files for this component only)
+    Source Bytes:       4,501,779 (files for this component only)
+
+
+                      **** File Group: "Shared DLLs" ****
+
+
+<Directory>: G:\Documents\Picture Scroller 2.0\Shared Dlls
+
+    Filename                    Date        Time      Size         Version      
+    --------------------------  ----------  --------  -----------  -------------
+    msvbvm60.dll                12/07/1999  20:00:00    1,384,448  6.0.84.95    
+    MSCOMCTL.OCX                07/28/1998  18:01:56    1,062,704  6.0.81.77    
+    oleaut32.dll                12/07/1999  20:00:00      614,672  2.40.4512.1  
+    olepro32.dll                12/07/1999  20:00:00      164,112  5.0.4512.1   
+    --------------------------  ----------  --------  -----------  -------------
+    Count=4                                             3,225,936               
+
+
+================================================================================
+                           COMPONENT: "Screen Saver"
+================================================================================
+
+SUMMARY:
+    Total Files:                1 (files for this component only)
+    Source Bytes:       4,522,259 (files for this component only)
+
+
+                      **** File Group: "Screen Saver" ****
+
+
+<Directory>: G:\Documents\Picture Scroller 2.0\Deluxe\Screen Saver
+
+    Filename                    Date        Time      Size         Version      
+    --------------------------  ----------  --------  -----------  -------------
+    Picture Scroller.scr        01/02/2001  15:10:14       20,480  2.0.0.0      
+    --------------------------  ----------  --------  -----------  -------------
+    Count=1                                                20,480               

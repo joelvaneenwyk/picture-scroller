@@ -1,0 +1,10 @@
+[TopDir]
+file0=F:\Projects\Picture Scroller 2.0\Deluxe\Picture Scroller.chm
+file1=F:\Projects\Picture Scroller 2.0\My Installations\Picture Scroller 2.1 Deluxe\SSList.pcs
+file2=F:\Projects\Picture Scroller 2.0\My Installations\Picture Scroller 2.1 Deluxe\Examples.pcs
+file3=F:\Projects\Picture Scroller 2.0\My Installations\Picture Scroller 2.1 Deluxe\Options.dat
+
+[General]
+Type=FILELIST
+Version=1.00.000
+

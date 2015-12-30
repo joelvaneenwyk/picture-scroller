@@ -1,0 +1,46 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=..\..\Deluxe\Picture Scroller.chm
+Contents file=Deluxe.hhc
+Default Window=Main
+Default topic=Files/Common/Intro_Introducing.htm
+Display compile progress=Yes
+Full-text search=Yes
+Index file=Deluxe.hhk
+Language=0x409 English (United States)
+Title=Picture Scroller 2.1 Help
+
+[WINDOWS]
+Main="Picture Scroller 2.1 Help","Deluxe.hhc","Deluxe.hhk","Files/Common/Intro_Introducing.htm","Files/Common/Intro_Introducing.htm",,"Getting Started",,,0x62520,,0x304e,[71,55,701,535],,,,,,,0
+
+
+[FILES]
+Files\Common\Tips.js
+Files\Common\GetStart_Main.htm
+Files\Common\GetStart_SelectingYourPictures.htm
+Files\Common\GetStart_PreviewingYourPictures.htm
+Files\Common\GetStart_SettingOptions.htm
+Files\Common\GetStart_StartScrolling.htm
+Files\Common\Intro_Introducing.htm
+Files\Common\Options_SelectPictures.htm
+Files\Common\Options_AdjustOptions.htm
+Files\Common\Options_AdjOpt_Interval.htm
+Files\Common\Options_AdjOpt_Advanced.htm
+Files\Common\Options_BeginScrolling.htm
+Files\Common\Scroll_WhileScrolling.htm
+Files\Common\Scroll_MakeBackground.htm
+Files\Common\ContactingUs.htm
+Files\Common\OurWebSite.htm
+Files\Intro_Overview.htm
+Files\Intro_WhatsNew.htm
+Files\Options_UnderstandingTheOptions.htm
+Files\Options_Preview.htm
+Files\Options_AdjOpt_Transitions.htm
+Files\Options_AdjOpt_Miscellaneous.htm
+Files\ScrSaver_Using.htm
+Files\ScrSaver_Enabling.htm
+Files\ScrSaver_Options.htm
+Files\SupportedFormats.htm
+
+[INFOTYPES]
+

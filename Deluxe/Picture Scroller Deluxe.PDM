@@ -1,0 +1,78 @@
+[Root]
+Most Recent Package=Dep File 1
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=D:\PS Package
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\dx7vb.dll=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+
+[Package|Dep File 1|Files Added]
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+D:\Documents\Picture Scroller 2.0\Deluxe\Picture Scroller.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\HHCTRL.OCX=Yes
+C:\WINDOWS\SYSTEM\ITSS.DLL=Yes
+C:\WINDOWS\SYSTEM\ITIRCL.DLL=Yes
+C:\WINDOWS\HH.EXE=Yes
+C:\WINDOWS\SYSTEM\dx7vb.dll=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 1|Install Locations]
+D:\Documents\Picture Scroller 2.0\Deluxe\Picture Scroller.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\HHCTRL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\ITSS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\ITIRCL.DLL=$(WinSysPath)
+C:\WINDOWS\HH.EXE=$(WinSysPath)
+C:\WINDOWS\SYSTEM\dx7vb.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 1|DepFile]
+DepCabFile=Picture Scroller.CAB
+DepCabRun=Picture Scroller.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=D:\PS Package
+ProjectFolder=D:\Documents\Picture Scroller 2.0\Deluxe
+ServerSideCab=
+File1=D:\PS Package\Picture Scroller.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

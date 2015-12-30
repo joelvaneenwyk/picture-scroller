@@ -1,0 +1,10 @@
+[TopDir]
+file0=F:\Projects\Picture Scroller 2.0\Shared Dlls\MSCOMCTL.OCX
+file1=F:\Projects\Picture Scroller 2.0\Shared Dlls\MSVBVM60.DLL
+file2=F:\Projects\Picture Scroller 2.0\Shared Dlls\OLEAUT32.DLL
+file3=F:\Projects\Picture Scroller 2.0\Shared Dlls\OLEPRO32.DLL
+
+[General]
+Type=FILELIST
+Version=1.00.000
+

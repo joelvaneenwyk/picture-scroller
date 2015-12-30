@@ -1,0 +1,22 @@
+1-19	Button Captions
+20	Number of Buttons
+21-39	Button Tips
+40-49	General Program Tips
+50-99	Menu Item Tips
+100-199	"Select Directory" Option
+200-299	"Preview" Option
+300-399	"Adjust Options" Option
+400-499	"Begin Scrolling" Option
+
+100-199
+-------
+100-119	General
+120-139	Toolbar
+
+300-399
+-------
+300-319	General
+320-339	"Interval" Tab
+340-359	"Transitions" Tab
+360-379	"Miscellaneous" Tab
+380-399	"Advanced Tab"

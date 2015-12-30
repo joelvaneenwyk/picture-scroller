@@ -1,0 +1,117 @@
+STRINGTABLE
+BEGIN
+	1,	"&Instructions"
+	2,	"&Select Pictures"
+	3,	"&Preview"
+	4,	"&Adjust Options"
+	5,	"&Begin Scrolling"
+	6,	"&Help"
+	20,	"6"
+	21,	"View the startup screen with instructions for scrolling through pictures."
+	22,	"Select the directory(s) that contains the pictures you would like to scroll through."
+	23,	"Preview the pictures before you scroll through them."
+	24,	"Optimize various scrolling settings."
+	25,	"Begin Scrolling Through Your Pictures!"
+	26,	"Click here to view the complete Picture Scroller Help file."
+	40,	"Welcome to Picture Scroller!!"
+	41,	"Welcome to Picture Scroller Screen Saver Configuration!!"
+	42,	"Click here to check out the people who made Picture Scroller."
+	43,	"Move your mouse over the item in question to see a description of its purpose here."
+	50,	"Add a directory of pictures to the list of those scrolled."
+	51,	"Add individual files to the list of those scrolled."
+	52,	"Load a previously saved list of pictures."
+	53,	"Save the current list of pictures for future use."
+	100,	"This is a list of all the pictures to scroll through."
+	101,	"Click a picture from the list to see a preview of it here."
+	120,	"Upon clicking this, you will have the option to add either a whole directory of pictures or individual picture files."
+	121,	"Clicking this will remove the selected items from the list of pictures to scroll through.  If it's a folder, all pictures in the folder will be removed."
+	123,	"Move the selected picture or folder of pictures down."
+	124,	"Move the selected picture or folder of pictures up."
+	126,	"Show a preview of the selected picture."
+	200,	"Click this to show the options enabling you to print pictures."
+	300,	"Set the pause interval between pictures."
+	301,	"Set which transitions to use when scrolling through pictures.  You can also set the order or have Picture Scroller randomly determine the order."
+	302,	"Set the scroll direction, picture size, background music, and other miscellaneous options."
+	303,	"Advanced options including the size of the screen and the number of colors to use when scrolling through pictures."
+	340,	"List of the available transitions."
+	341,	"Add all the available transitions to the list of transitions used."
+	342,	"Add the selected transition to the transitions used."
+	343,	"Remove the selected transition from the transitions used."
+	344,	"Remove all the transitions from use."
+	345,	"List of the actual transitions used."
+	346,	"Move the selected transition up."
+	347,	"Move the selected transition down."
+	348,	"Checking this will make Picture Scroller randomly use the transitions that you have added to the list on the right."
+	360,	"Scroll forward through the pictures."
+	361,	"Scroll backward through the pictures."
+	362,	"Randomly scroll through the pictures."
+	363,	"Here you can select the size of the pictures on the screen."
+	364,	"When selected, Picture Scroller will use various sound effects for certain actions, including the startup greeting."
+	365,	"Click here to upgrade to Picture Scroller 2.0 Deluxe!"
+	380,	"Use the current screen settings. (Recommended)"
+	381,	"Optimize the screen settings for speed."
+	382,	"Optimize the screen settings for quality."
+	383,	"This allows you to personally select the optimum screen setting for you system. (For advanced users only)"
+	384,	"This is the color that will backdrop your pictures.  Click here to change it."
+	385,	"This is the color that will be used when displaying text on the screen.  Click here to change it."
+
+	998,	"4"
+	999,	"6"
+	1000,	"Name: Joel Van Eenwyk"
+	1001,	"Role: Programmer"
+	1002,	"Weight: 121 lb."
+	1003,	"Height: 5 ft 6 in"
+	1004,	"Birthdate: 11/16/1984"
+	1005,	"Interests: Programming, Art, Music"
+	1010,	"Name: Jonathan Van Eenwyk"
+	1011,	"Role: Programmer"
+	1012,	"Weight: 118 lb."
+	1013,	"Height: 5 ft 6 in"
+	1014,	"Birthdate: 3/7/1983"
+	1015,	"Interests: Programming, Electronics"
+	1020,	" "
+	1021,	"We'd like to thank our wonderful"
+	1022,	"parents, Sharon and Larry, for all"
+	1023,	"their encouragement, support, and"
+	1024,	"advice throughout this project."
+	1025,	" "
+	1030,	" "
+	1031,	"Special thanks to Monica and"
+	1032,	"Wing-Lik for all they've done"
+	1033,	"helping us get on our way"
+	1034,	"in our programming careers."
+	1035,	" "
+END
+
+1	PICS	.\Pics\Arrows\Mouse.bmp
+2	PICS	.\Pics\Buttons\Exit.bmp
+3	PICS	.\Pics\Buttons\Previous.bmp
+4	PICS	.\Pics\Buttons\Next.bmp
+5	PICS	.\Pics\Buttons\Pause.bmp
+6	PICS	.\Pics\Buttons\Resume.bmp
+7	PICS	.\Pics\Buttons\Exit_Over.bmp
+8	PICS	.\Pics\Buttons\Previous_Over.bmp
+9	PICS	.\Pics\Buttons\Next_Over.bmp
+10	PICS	.\Pics\Buttons\Pause_Over.bmp
+11	PICS	.\Pics\Buttons\Resume_Over.bmp
+12	PICS	.\Pics\Logo\Logo21.jpg
+20	PICS	.\Pics\Photos\Joel.jpg
+21	PICS	.\Pics\Photos\Jonathan.jpg
+22	PICS	.\Pics\Photos\MomDad.jpg
+23	PICS	.\Pics\Photos\MonicaWing.jpg
+30	PICS	.\Pics\Tile.jpg
+
+1	WAV	.\Wavs\Welcome.wav
+2	WAV	.\Wavs\Select.wav
+3	WAV	.\Wavs\Help.wav
+
+1	BITMAP	.\Pics\Wait\1.bmp
+2	BITMAP	.\Pics\Wait\2.bmp
+3	BITMAP	.\Pics\Wait\3.bmp
+4	BITMAP	.\Pics\Wait\4.bmp
+5	BITMAP	.\Pics\Wait\5.bmp
+
+1	CURSOR	.\Pics\Arrows\Select.cur
+2	CURSOR	.\Pics\Arrows\Move.cur
+
+24	ICON	.\Pics\Logo\FileType.ico

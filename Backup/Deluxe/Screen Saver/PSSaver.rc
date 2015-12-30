@@ -1,0 +1,6 @@
+STRINGTABLE PRELOAD DISCARDABLE
+BEGIN
+	1, "Picture Scroller"
+END
+
+0	ICON	PSSaver.ico

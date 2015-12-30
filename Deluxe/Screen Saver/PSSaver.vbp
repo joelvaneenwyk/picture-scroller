@@ -1,0 +1,37 @@
+Type=Exe
+Module=modSaver; modSaver.bas
+ResFile32="PSSaver.RES"
+Startup="Sub Main"
+HelpFile=""
+Title="Picture Scroller"
+ExeName32="Picture Scroller.scr"
+Command32="/c"
+Name="PSSaver"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=2
+MinorVer=10
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="Lion's Van-E Software"
+VersionProductName="Picture Scroller Screen Saver"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+DebugStartupOption=0
+
+[MS Transaction Server]
+AutoRefresh=1

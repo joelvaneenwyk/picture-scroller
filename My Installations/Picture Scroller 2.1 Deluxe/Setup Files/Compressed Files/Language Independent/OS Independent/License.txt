@@ -1,0 +1,36 @@
+LICENSE FOR PICTURE SCROLLER 2.1 DELUXE
+
+This License Agreement is a legal agreement between you and
+Lion's Van-E Software for Picture Scroller, which includes
+computer software and electronic documentation. You should
+carefully read the following terms and conditions before
+using Picture Scroller.
+
+By installing, copying, or otherwise using Picture Scroller,
+you are agreeing to be bound by the terms of this Agreement.
+If you do not agree to the terms of this Agreement, you are
+not authorized to use Picture Scroller. 
+
+1. GRANT OF LICENSE.
+   Lion's Van-E Software grants you the non-exclusive right
+   to install and use Picture Scroller on any number of
+   computers owned by the purchaser or his/her immediate family. 
+
+2. RESTRICTIONS. 
+   --You must comply with all applicable laws regarding the use
+     of Picture Scroller.
+
+   --You may not reverse engineer, decompile, or disassemble
+     Picture Scroller.
+
+   --You may not rent or lease Picture Scroller.
+
+3. NO LIABILITY FOR CONSEQUENTIAL DAMAGES.
+   To the maximum extent permitted by applicable law, in no event
+   shall Lion's Van-E Software or its suppliers be liable for any
+   special, incidental, indirect, or consequential damages
+   whatsoever (including, without limitation, damages for loss of
+   business profits, business interruption, loss of business
+   information, or any other pecuniary loss) arising out of the
+   use of or inability to use Picture Scroller, even if Lion's
+   Van-E Software has been advised of the possibility of such damages.

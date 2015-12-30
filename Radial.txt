@@ -1,0 +1,162 @@
+
+Public Sub Radial()
+
+Static iPosX As Integer
+Static iPosY As Integer
+Static bDirection As Integer
+Dim SizeW As Integer
+Dim SizeH As Integer
+
+SizeW = iPicWidth / 55
+SizeH = SizeW
+
+If bOld = False Then
+    bAlwaysRedo = True
+
+    iPosX = iPicWidth / 2
+    iPosY = 0
+    bDirection = 0
+
+    bOld = True
+End If
+
+If CheckSizes(SizeW, SizeH, iPosX, iPosY) = 0 Then DrawLine iPicWidth / 2, iPicHeight / 2, iPosX, iPosY, SizeW, SizeH
+
+If bDirection = 0 Then
+    If iPosX >= iPicWidth - SizeW Then
+        iPosX = iPicWidth - SizeW
+        iPosY = SizeH
+        bDirection = 1
+    Else: iPosX = iPosX + SizeW
+    End If
+ElseIf bDirection = 1 Then
+    If iPosY >= iPicHeight - SizeH Then
+        iPosY = iPicHeight - SizeH
+        iPosX = iPicWidth - (SizeW * 2)
+        bDirection = 2
+    Else: iPosY = iPosY + SizeH
+    End If
+ElseIf bDirection = 2 Then
+    If iPosX <= SizeW Then
+        iPosX = 0
+
+        bDirection = 3
+    Else: iPosX = iPosX - SizeW
+    End If
+ElseIf bDirection = 3 Then
+    If iPosY <= 0 Then
+        iPosY = 0
+        bDirection = 4
+    Else: iPosY = iPosY - SizeH
+    End If
+ElseIf bDirection = 4 Then
+    iPosX = iPosX + SizeW
+End If
+
+If bDirection = 4 And iPosX >= iPicWidth / 2 And iPosY <= 0 Then
+    frmScroller.TransitionDone
+End If
+
+End Sub
+Private Sub DrawLine(x1 As Integer, y1 As Integer, x2 As Integer, y2 As Integer, Width As Integer, Height As Integer)
+
+Dim DX As Integer
+Dim DY As Integer
+Dim incr1 As Integer
+Dim incr2 As Integer
+Dim d As Integer
+Dim X As Integer
+Dim Y As Integer
+Dim XEnd As Integer
+Dim YEnd As Integer
+Dim yinc As Integer
+Dim xinc As Integer
+
+DX = Abs(x2 - x1)
+DY = Abs(y2 - y1)
+
+If (DX >= DY) Then
+    If (x1 > x2) Then
+        X = x2: Y = y2: XEnd = x1
+
+        If (DY = 0) Then
+            yinc = 0
+        Else
+            If (y2 > y1) Then
+                yinc = -1
+            Else: yinc = 1
+            End If
+        End If
+    Else
+        X = x1: Y = y1: XEnd = x2
+
+        If (DY = 0) Then
+            yinc = 0
+        Else
+            If (y2 > y1) Then
+                yinc = 1
+            Else: yinc = -1
+            End If
+        End If
+    End If
+
+    incr1 = 2 * DY: d = incr1 - DX: incr2 = 2 * (DY - DX)
+
+    DirectDraw.BltFast "TRANSITION", iPicLeft + X, iPicTop + Y, Width, Height, "CURRENTPICTURE", X, Y, False
+
+    Do While (X < XEnd)
+        X = X + 1
+
+        If (d < 0) Then
+            d = d + incr1
+        Else
+            Y = Y + yinc
+            d = d + incr2
+        End If
+
+        DirectDraw.BltFast "TRANSITION", iPicLeft + X, iPicTop + Y, Width, Height, "CURRENTPICTURE", X, Y, False
+    Loop
+Else
+    If (y1 > y2) Then
+        X = x2: Y = y2: YEnd = y1
+
+        If (DX = 0) Then
+            xinc = 0
+        Else
+            If (x2 > x1) Then
+                xinc = -1
+            Else: xinc = 1
+            End If
+        End If
+    Else
+        X = x1: Y = y1: YEnd = y2
+
+        If (DX = 0) Then
+            xinc = 0
+        Else
+            If (x2 > x1) Then
+                xinc = 1
+            Else: xinc = -1
+            End If
+        End If
+    End If
+
+    incr1 = 2 * DX: d = incr1 - DY: incr2 = 2 * (DX - DY)
+
+    DirectDraw.BltFast "TRANSITION", iPicLeft + X, iPicTop + Y, Width, Height, "CURRENTPICTURE", X, Y, False
+
+    Do While (Y < YEnd)
+        Y = Y + 1
+
+        If (d < 0) Then
+            d = d + incr1
+        Else
+            X = X + xinc
+            d = d + incr2
+        End If
+
+        DirectDraw.BltFast "TRANSITION", iPicLeft + X, iPicTop + Y, Width, Height, "CURRENTPICTURE", X, Y, False
+    Loop
+End If
+
+End Sub

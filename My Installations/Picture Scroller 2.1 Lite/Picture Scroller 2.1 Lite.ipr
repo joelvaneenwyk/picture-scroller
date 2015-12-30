@@ -1,0 +1,52 @@
+[Language]
+LanguageSupport0=0009
+
+[OperatingSystem]
+OSSupport=0000000000011010
+
+[Data]
+CurrentMedia=Default
+CurrentComponentDef=Default.cdf
+ProductName=Picture Scroller 2.0 Lite
+set_mifserial=
+DevEnvironment=Microsoft Visual C++ 6
+AppExe=G:\Documents\Picture Scroller 2.0\Lite\Picture Scroller.exe
+set_dlldebug=No
+EmailAddresss=
+Instructions=Instructions.txt
+set_testmode=No
+set_mif=No
+SummaryText=
+Department=
+HomeURL=
+Author=
+Type=Database Application
+InstallRoot=F:\Projects\Picture Scroller 2.0\My Installations\Picture Scroller 2.1 Lite
+Version=2.0
+InstallationGUID=ee86c8e3-af42-11d4-9e99-0000e8e6cb13
+set_level=Level 3
+CurrentFileGroupDef=Default.fdf
+Notes=Notes.txt
+set_maxerr=50
+set_args=
+set_miffile=Status.mif
+set_dllcmdline=
+Copyright=
+set_warnaserr=No
+CurrentPlatform=
+Category=
+set_preproc=
+CurrentLanguage=English
+CompanyName=Lion's Van-E Software
+Description=Description.txt
+set_maxwarn=50
+set_crc=Yes
+set_compileb4build=No
+
+[MediaInfo]
+mediadata0=Default/Media\Default
+
+[General]
+Type=INSTALLMAIN
+Version=1.10.000
+

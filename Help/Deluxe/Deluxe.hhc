@@ -1,0 +1,151 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Introducing Picture Scroller 2.0">
+		<param name="Local" value="Files/Common/Intro_Introducing.htm">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Overview">
+			<param name="Local" value="Files/Intro_Overview.htm">
+			<param name="ImageNumber" value="17">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="What's New in this Version">
+			<param name="Local" value="Files/Intro_WhatsNew.htm">
+			<param name="ImageNumber" value="12">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Getting Started">
+		<param name="Local" value="Files/Common/GetStart_Main.htm">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Selecting Your Pictures">
+			<param name="Local" value="Files/Common/GetStart_SelectingYourPictures.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Previewing Your Pictures">
+			<param name="Local" value="Files/Common/GetStart_PreviewingYourPictures.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Setting Options">
+			<param name="Local" value="Files/Common/GetStart_SettingOptions.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Start Scrolling">
+			<param name="Local" value="Files/Common/GetStart_StartScrolling.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Understanding the Options">
+		<param name="Local" value="Files/Options_UnderstandingTheOptions.htm">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Select Pictures">
+			<param name="Local" value="Files/Common/Options_SelectPictures.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Preview and Printing">
+			<param name="Local" value="Files/Options_Preview.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Adjust Options">
+			<param name="Local" value="Files/Common/Options_AdjustOptions.htm">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Interval">
+				<param name="Local" value="Files/Common/Options_AdjOpt_Interval.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Transitions">
+				<param name="Local" value="Files/Options_AdjOpt_Transitions.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Miscellaneous">
+				<param name="Local" value="Files/Options_AdjOpt_Miscellaneous.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Advanced">
+				<param name="Local" value="Files/Common/Options_AdjOpt_Advanced.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Begin Scrolling">
+			<param name="Local" value="Files/Common/Options_BeginScrolling.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="While Scrolling">
+		<param name="Local" value="Files/Common/Scroll_WhileScrolling.htm">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="While Scrolling">
+			<param name="Local" value="Files/Common/Scroll_WhileScrolling.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Making a Picture Your Background">
+			<param name="Local" value="Files/Common/Scroll_MakeBackground.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Using the Screen Saver">
+		<param name="Local" value="Files/ScrSaver_Using.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Enabling the Screen Saver">
+			<param name="Local" value="Files/ScrSaver_Enabling.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Setting Screen Saver Options">
+			<param name="Local" value="Files/ScrSaver_Options.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="More Information">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Contacting Us">
+			<param name="Local" value="Files/Common/ContactingUs.htm">
+			<param name="ImageNumber" value="25">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Our Web Site">
+			<param name="Local" value="Files/Common/OurWebSite.htm">
+			<param name="ImageNumber" value="15">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="System Requirements">
+			<param name="Local" value="Files/Common/SystemRequirements.htm">
+			<param name="ImageNumber" value="11">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Supported Formats">
+			<param name="Local" value="Files/SupportedFormats.htm">
+			<param name="ImageNumber" value="11">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="License">
+			<param name="Local" value="Files/License.htm">
+			<param name="ImageNumber" value="12">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>

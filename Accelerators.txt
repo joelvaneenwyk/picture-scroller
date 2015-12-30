@@ -1,0 +1,64 @@
+Main Options
+------------
+I-Instructions
+S-Select Pictures
+P-Preview Pictures
+A-Adjust Options
+B-Begin Scrolling
+H-Help
+
+	Select Directory
+	----------------
+	D-Add
+	R-Remove
+	O-Down
+	U-Up
+	V-Preview
+
+	Adjust Options
+	--------------
+	N-Interval
+	T-Transitions
+	M-Miscellaneous
+	V-Advanced
+
+		Interval
+		--------
+
+		Transitions
+		-----------
+		A-Transitions Appear Randomly
+
+		Miscellaneous
+		-------------
+		F-Foward
+		D-Backward
+		R-Random
+		G-Check this to enable program sound effects.
+
+			Background Music
+			----------------
+			U-Audio CD
+			C-Music File
+			E-None
+
+				Audio CD
+				--------
+				Y-Retry
+				L-Cancel
+
+				K-All Tracks
+				L-Selected
+
+				Music File
+				----------
+				L-Loop Music
+				Y-Play Once
+				W-Browse
+
+		Advanced
+		--------
+		U-Use the current screen settings
+		D-Optimize for Speed
+		Q-Optimize for Quality
+		C-Custom
