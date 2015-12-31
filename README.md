@@ -1,6 +1,6 @@
 # Overview
 
-This is a very old bit of software that my brother (Jonathan Van Eenwyk) and I made
+This is a very old bit of software that my brother (@jve) and I made
 way back in the late 90s.
 
 Here is the original description in our help:
@@ -15,10 +15,13 @@ your company, or just to browse through your pictures.  Picture Scroller makes i
 to view and use any picture that you have acquired from a digital camera, scanner, the
 Internet, or even those you have drawn yourself!"
 
+![Picture Scroller Screenshot](https://raw.githubusercontent.com/joelvaneenwyk/picture-scroller/master/Help/Deluxe/Files/Graphics/ScreenShot.jpg)
+
 # Requirements
 
 * Visual Basic 6.0
     - https://msdn.microsoft.com/en-us/vstudio/ms788229.aspx
+    - See http://www.fortypoundhead.com/showcontent.asp?artid=23993 for information on how to install on Windows 10
 * InstallShield
     - http://www.flexerasoftware.com/producer/products/software-installation/installshield-software-installer/
 * Microsoft HTML Help 1.4
