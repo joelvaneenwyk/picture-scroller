@@ -1,5 +1,7 @@
 # Overview
 
+![Picture Scroller Screenshot](Pics/Logo/Icon.png)
+
 This is a very old bit of software that @jdve (my brother) and I made
 way back in the late 90s.
 
@@ -15,7 +17,7 @@ your company, or just to browse through your pictures.  Picture Scroller makes i
 to view and use any picture that you have acquired from a digital camera, scanner, the
 Internet, or even those you have drawn yourself!
 
-![Picture Scroller Screenshot](https://raw.githubusercontent.com/joelvaneenwyk/picture-scroller/master/Help/Deluxe/Files/Graphics/ScreenShot.jpg?token=ABtF1xGiW_5jt12vTB8jXx-fAMhUOxmuks5Wjs--wA%3D%3D)
+![Picture Scroller Screenshot](Pics/Screenshots/SettingsDialog.png)
 
 # Requirements
 
