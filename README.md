@@ -1,6 +1,6 @@
 # Overview
 
-This is a very old bit of software that my brother (@jve) and I made
+This is a very old bit of software that @jdve (my brother) and I made
 way back in the late 90s.
 
 Here is the original description taken from the documentation:
