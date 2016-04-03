@@ -1,0 +1,9 @@
+Line 150: Class MSComctlLib.ImageList of control imglstIcons was not a loaded control class.
+Line 172: Class MSComctlLib.ImageList of control imglstDirectory was not a loaded control class.
+Line 206: Class MSComctlLib.ListView of control lstFiles was not a loaded control class.
+Line 246: Class MSComctlLib.Toolbar of control tlbDirectory was not a loaded control class.
+Line 302: Class MSComctlLib.ListView of control lstTemp was not a loaded control class.
+Line 1059: Class MSComctlLib.Toolbar of control tlbMoveDown was not a loaded control class.
+Line 1079: Class MSComctlLib.ImageList of control imglstUpDown was not a loaded control class.
+Line 1110: Class MSComctlLib.Toolbar of control tlbMoveUp was not a loaded control class.
+Line 1487: Class MSComctlLib.TabStrip of control tbsOptions was not a loaded control class.

@@ -25,6 +25,6 @@ modPicStuff = 22, 22, 320, 374, C
 modTimeSavers = 44, 44, 342, 396, C
 frmEvent = 66, 66, 349, 414, C, 154, 154, 513, 502, C
 CDirectSound = 22, 22, 381, 370, C
-CMusic = 22, 22, 304, 370, Z
+CMusic = 22, 22, 304, 370, 
 modSubclass = 132, 132, 498, 480, C
 frmMenu = 44, 44, 342, 396, C, 0, 0, 359, 348, C

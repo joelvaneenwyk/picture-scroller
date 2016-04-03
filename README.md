@@ -31,7 +31,7 @@ Internet, or even those you have drawn yourself!
 
 # Compiling
 
-1. Open `Deluxe/Picture Scroller Deluxe.vbp`
+1. Open `Source/Picture Scroller Deluxe.vbp`
 2. Press Play
 
-Tested this on Windows 10 using Visual Basic 6.0 and it 'just worked'.
+Tested this on Windows 10 using Visual Basic 6.0 and it 'just worked'. Previously there was a Lite and Deluxe version, but for simplicity I've removed the Lite version since it was just the Deluxe version with some features removed.
